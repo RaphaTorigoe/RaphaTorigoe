@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Raphael Torigoe
 
 
-- 🔭 Procurando emprego
-- 🌱 Estudando Engenharia da Computação
+- 🔍 Procurando emprego
+- 📚 Estudando Engenharia da Computação
 
 ##
 
