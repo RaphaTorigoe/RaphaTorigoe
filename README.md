@@ -1,4 +1,4 @@
-### Olá! Sou o Raphael, fique a vontade para explorar os meus projetos e contribuições. 
+### Olá! Meu nome é Raphael, fique a vontade para explorar os meus projetos e contribuições. 
 
 - 🎮 ETEC - Técnico em Programação de Jogos Digitais Integrado ao Ensino Médio Completo 
 - 📚 FEAP - Estudando Engenharia da Computação 5/10
