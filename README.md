@@ -1,4 +1,4 @@
-### Olá! Eu sou o Raphael Torigoe
+### Olá! Eu sou o Raphael
 
 - 🔍 Procurando emprego
 - 📚 Estudando Engenharia da Computação 5/10
