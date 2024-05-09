@@ -2,7 +2,7 @@
 
 - 🎮 ETEC - Técnico em Programação de Jogos Digitais Integrado ao Ensino Médio Completo 
 - 📚 FEAP - Estudando Engenharia da Computação 5/10
-- 🔍 Procurando emprego
+- 🔍 Buscando uma oportunidade de emprego
   
 ##
 
