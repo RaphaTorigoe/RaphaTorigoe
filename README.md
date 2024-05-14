@@ -1,4 +1,4 @@
-### Olá! Meu nome é Raphael, fique a vontade para explorar os meus projetos e contribuições. 
+### Olá! Meu nome é Raphael, fique a vontade para explorar os meus projetos.
 
 - 🔍 Buscando uma oportunidade de emprego
 - 📚 FEAP - Estudando Engenharia da Computação 5/10
