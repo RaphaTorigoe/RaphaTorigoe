@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Raphael, fique a vontade para explorar os meus projetos.
 
 - 🔍 Buscando uma oportunidade de emprego
-- 📚 FEAP - Estudando Engenharia da Computação 5/10
+- 📚 FEAP - Estudando Engenharia da Computação 6/10
 - 🎮 ETEC - Técnico em Programação de Jogos Digitais Integrado ao Ensino Médio Completo 
   
 ##
