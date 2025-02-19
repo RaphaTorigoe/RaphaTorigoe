@@ -1,5 +1,6 @@
 ### Olá! Meu nome é Raphael, fique a vontade para explorar os meus projetos.
 
+- 👨🏻‍💻 LEEGA - Estagiário em Análise de Sistemas 
 - 📚 FEAP - Estudando Engenharia da Computação 7/10
 - 🎮 ETEC - Técnico em Programação de Jogos Digitais Integrado ao Ensino Médio Completo 
   
